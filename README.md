@@ -1,4 +1,4 @@
-# Awesome Artificial Intelligence (AI) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Artificial Intelligence for Vietnamese [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 
@@ -8,19 +8,21 @@ Contributions most welcome.
 
 ## Contents
 
-1. [Courses](#courses)
-2. [Books](#books)
-3. [Programming](#programming)
-4. [Philosophy](#philosophy)
-5. [Free Content](#free-content)
-6. [Code](#code)
-7. [Videos](#videos)
-8. [Learning](#learning)
-9. [Organizations](#organizations)
-10. [Journals](#journals)
-11. [Competitions](#competitions)
-12. [Newsletters](#newsletters)
-13. [Misc](#misc)
+1. [Roadmap](#roadmap)
+2. [Python](#python)
+3. [Courses](#courses)
+4. [Books](#books)
+5. [Programming](#programming)
+6. [Philosophy](#philosophy)
+7. [Free Content](#free-content)
+8. [Code](#code)
+9. [Videos](#videos)
+9. [Learning](#learning)
+10. [Organizations](#organizations)
+11. [Journals](#journals)
+12. [Competitions](#competitions)
+13. [Newsletters](#newsletters)
+14. [Misc](#misc)
 
 
 ## Courses
